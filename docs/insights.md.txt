@@ -1,0 +1,43 @@
+# E-commerce Sales Performance Dashboard - Insights
+
+## 1. Executive Overview
+
+The dashboard shows that the business generated strong overall sales performance across the analyzed period, with high revenue, large order volume, and positive profit contribution
+
+Lazada and Shopee are the leading sales channels, while TikTok Shop contributes lower revenue compared with the other two channels. This suggests that the business should continue optimizing high-performing channels while investigating opportunities to improve TikTok Shop performance
+
+The sharp drop in February 2026 should be interpreted carefully because the dataset may contain only partial data for that month. Therefore, this month should not be used as the only basis for evaluating business decline
+
+## 2. Product & Category Performance
+
+Electronics is the leading category in both revenue and profit, indicating that it is the main business driver
+
+Home and Sports also contribute meaningful revenue, but their profit contribution is lower than Electronics. This suggests that category performance should be evaluated not only by revenue, but also by profit contribution
+
+The most profitable products are mainly electronics accessories such as USB hubs, mechanical keyboards, and USB-C chargers. These products should be prioritized in merchandising, promotion, and inventory planning
+
+Products with high average stock should be monitored together with sales and profit performance to avoid potential overstock risk
+
+## 3. Customer & Channel Analysis
+
+Regular customers generate the highest revenue among customer segments, followed by Premium and VIP customers. This suggests that the main revenue base comes from mass-market customers rather than only high-tier segments
+
+Customers aged 55+ generate the highest revenue, while younger customers contribute lower revenue. This may indicate differences in purchasing power or product preference by age group
+
+Revenue is distributed across multiple traffic sources, including Direct, Social, Email, Referral, and Search. This shows the importance of maintaining multiple acquisition channels
+
+Orders are relatively evenly distributed across desktop, mobile, and tablet. Therefore, the shopping experience should be optimized consistently across all device types
+
+## 4. Business Recommendations
+
+1. Prioritize Electronics in promotion, inventory planning, and product assortment because it contributes strongly to both revenue and profit
+
+2. Monitor products with high average stock but lower profit contribution to reduce potential overstock risk
+
+3. Continue optimizing Lazada and Shopee as key revenue channels while exploring ways to improve TikTok Shop performance
+
+4. Strengthen engagement strategies for Regular customers because they represent the largest revenue-contributing segment
+
+5. Maintain a consistent user experience across desktop, mobile, and tablet because orders are relatively evenly distributed across device types
+
+6. Treat incomplete months carefully in time-series analysis to avoid misleading conclusions
